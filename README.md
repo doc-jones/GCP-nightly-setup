@@ -13,9 +13,9 @@ There are two issues with dependencies that I found with setting up nightly on W
 
 # Usage  
 
-### Step 1  
+## Step 1  
 
-Setup an account using the free tier of the Google Cloud Platform. https://cloud.google.com/free/  
+Setup an account using the free tier of the Google Cloud Platform. https://cloud.google.com/free/ . You will receive a $300 allotment in your GCP account, but the best news is that use of Cloud Shell doesn't incur any charges and is free forever.  
 
 Once your account is setup, click the 1st icon in the list on the top right of the Google Cloud Platorm page as pictured below to **Activate the Cloud Shell**. It is a tiny terminal icon.  
 
@@ -25,14 +25,21 @@ We will see a familiar terminal window that we can use to start installing Rust 
 
 ![Cloud Shell View](https://user-images.githubusercontent.com/37349558/107150283-13b3e900-692b-11eb-9016-eb52e34740af.png)  
 
-### Step 2
+## Step 2
 
-To install Rust  
+### Install Rust  
+  
+Use rustup to install Rust
 `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`  
 
 Next set Rust to nightly by running this command in your Cloud Shell/terminal window.  
 `rustup toolchain install nightly`
 
 And set to nightly run this commmand in your Cloud Shell.  
-`rustup default nightly`
+`rustup default nightly`  
+
+### Install QEMU  
+  
+  
+
 
