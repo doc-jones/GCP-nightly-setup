@@ -27,7 +27,7 @@ We will see a familiar terminal window that we can use to start installing Rust 
 
 ## Step 2
 
-### Install Rust  
+### Install Rust
   
 Use rustup to install Rust  
 `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`  
@@ -41,6 +41,6 @@ And set to nightly run this commmand in your Cloud Shell.
 ### Install QEMU
   
   Execute this command to install the Debian version of the QEMU elumator.  
-  `  `
+  `sudo apt-get install qemu-system-x86 qemu-utils`  
 
 
