@@ -27,12 +27,12 @@ We will see a familiar terminal window that we can use to start installing Rust 
 
 ### Step 2
 
-To install Rust
+To install Rust  
 `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`  
 
-Next set Rust to nightly by running this command in your Cloud Shell/terminal window.
+Next set Rust to nightly by running this command in your Cloud Shell/terminal window.  
 `rustup toolchain install nightly`
 
-And set to nightly run this commmand in your Cloud Shell
+And set to nightly run this commmand in your Cloud Shell.  
 `rustup default nightly`
 
