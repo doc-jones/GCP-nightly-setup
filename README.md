@@ -11,3 +11,10 @@ There are two issues with dependencies that I found with setting up nightly on W
 ### Step 1  
 
 Setup an account using the free tier of the Google Cloud Platform. https://cloud.google.com/free/  
+
+Once your account is setup, click the 1st icon in the list on the top right of the Google Cloud Platorm page as pictured below to Activate the Cloud Shell. It is a tiny terminal icon.  
+
+![Activate Cloud Shell](https://github.com/doc-jones/GCP-nightly-setup/issues/1#issue-802950597)
+
+
+
