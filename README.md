@@ -40,7 +40,14 @@ And set to nightly run this commmand in your Cloud Shell.
 
 ### Install QEMU
   
-  Execute this command to install the Debian version of the QEMU elumator.  
-  `sudo apt-get install qemu-system-x86 qemu-utils`  
+Execute this command to install the Debian version of the QEMU elumator.  
+`sudo apt install qemu qemu-system-x86 nasm -y`  
+  
+Installing QEMU in our Cloud Shell differs from the process for MacOS or Windows because we don't have the ability to launch a new window which is how QEMU would work on your local OS.
+```yaml
+DO NOT Try to run QEMU at this point:
+```  
+  
+There are changes that need to be made to your Cargo.toml file before you can can do cargo run.  
 
 
