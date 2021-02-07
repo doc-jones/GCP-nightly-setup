@@ -88,5 +88,7 @@ Open Cargo.toml in the editor and make these 2 changes.
 ![Update Version](https://user-images.githubusercontent.com/37349558/107153570-40243100-693c-11eb-8572-1bff54c9dd41.png)
 
 ![curses](https://user-images.githubusercontent.com/37349558/107153656-b2951100-693c-11eb-95b9-efdc72aa08c6.png)
-
-
+  
+The addition of curses allows QEMU to open in a terminal instead of needing to launch a new window.  Now you can use `cargo test` at the command line. If all is well, then you see Hello, World displayed in the terminal.  Here's what it looks like.  
+  
+![Qemu Hello World](https://user-images.githubusercontent.com/37349558/107153969-5206d380-693e-11eb-960a-90c2ad32ebff.png)
