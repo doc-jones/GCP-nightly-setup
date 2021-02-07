@@ -1,10 +1,10 @@
-# GCP Rust nightly Setup
+# Google Cloud Platform Rust nightly Setup
 ```yaml
-Steps to setup, install and configure 
+Steps to setup, install and configure  
 GCP Cloud Shell:  
-Cloud Shell Editor:   
-QEMU: 
 Rust nightly:  
+QEMU:  
+Cloud Shell Editor:  
 ```
   
 My journey with setting up an alternative dev environment for running Rust nightly began with the goal of running it on my Win10 machine. I needed to run nightly in support of building this project.  https://github.com/doc-jones/simple-os  
