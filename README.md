@@ -6,8 +6,8 @@ My journey with setting up an alternative dev environment for running Rust night
   
 There are two issues with dependencies that I found with setting up nightly on Win10. First, it requires Microsoft C++ Visual Studio tools which comes with GBs of data and sencond the Win10 scripts require use of the nightly-x86_64-pc-windows-msvc toolchain.  There is a known and well reported issue with using the msvc toolchain the the recommended fix is the use gcc instead with this command:  rustup install toolchain nightly-x86_64-pc-windows-gnc.  
 
-## Usage  
+# Usage  
 
-#### Step 1  
+### Step 1  
 
 Setup an account using the free tier of the Google Cloud Platform. https://cloud.google.com/free/  
