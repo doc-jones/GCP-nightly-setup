@@ -71,4 +71,12 @@ Now you can run the file by typing `./shellstarter.sh` at a terminal prompt.
   
 Cloud Shell comes with a number of languages and utilities already installed and one of those is `git`.  Follow your normal git workflow to Fork and clone https://github.com/doc-jones/simple-os   
   
-
+Open the Cloud Shell Editor from the terminal window.  
+  
+![Open Editor](https://user-images.githubusercontent.com/37349558/107153253-7365c080-693a-11eb-8ae5-db2e124c2929.png)
+  
+Now let's pop the editor out to its own browser window.  
+  
+![Pop Out Shell](https://user-images.githubusercontent.com/37349558/107153363-1ae2f300-693b-11eb-852f-762a4a852eb6.png)
+  
+![Cloud Editor](https://user-images.githubusercontent.com/37349558/107153420-875df200-693b-11eb-99b9-a2a6c58e2107.png)
