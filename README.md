@@ -49,5 +49,19 @@ DO NOT Try to cargo run or run QEMU at this point:
 ```  
   
 There are changes that need to be made to your Cargo.toml file before you can can do cargo run.  
-
+  
+### Use an Executable Script Instead
+  
+In the root directory of your Cloud Shell, open a new file with any name you like. It must have the `.sh` extention.  My example as follows.  
+`nano shellstarter.sh`  
+  
+This will open an empty file in the nano editor.  Copy/Paste the following code into your nano editor.  
+```
+sudo apt install qemu qemu-system-x86 nasm -y
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh &&
+rustup toolchain install nightly
+rustup default nightly
+rustup component add rust-src
+rustup component add llvm-tools-preview
+```
 
