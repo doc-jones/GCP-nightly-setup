@@ -80,3 +80,13 @@ Now let's pop the editor out to its own browser window.
 ![Pop Out Shell](https://user-images.githubusercontent.com/37349558/107153363-1ae2f300-693b-11eb-852f-762a4a852eb6.png)
   
 ![Cloud Editor](https://user-images.githubusercontent.com/37349558/107153420-875df200-693b-11eb-99b9-a2a6c58e2107.png)
+  
+## Step 4
+  
+Open Cargo.toml in the editor and make these 2 changes.  
+  
+![Update Version](https://user-images.githubusercontent.com/37349558/107153570-40243100-693c-11eb-8572-1bff54c9dd41.png)
+
+![curses](https://user-images.githubusercontent.com/37349558/107153656-b2951100-693c-11eb-95b9-efdc72aa08c6.png)
+
+
