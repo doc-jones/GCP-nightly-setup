@@ -19,7 +19,20 @@ Setup an account using the free tier of the Google Cloud Platform. https://cloud
 
 Once your account is setup, click the 1st icon in the list on the top right of the Google Cloud Platorm page as pictured below to **Activate the Cloud Shell**. It is a tiny terminal icon.  
 
-![Activate Cloud Shell](https://user-images.githubusercontent.com/37349558/107147554-b3b64600-691c-11eb-8fd2-0b576af2da11.png)
+![Activate Cloud Shell](https://user-images.githubusercontent.com/37349558/107147554-b3b64600-691c-11eb-8fd2-0b576af2da11.png)  
 
+We will see a familiar terminal window that we can use to start installing Rust and other dependencies.  
 
+![Cloud Shell View](https://user-images.githubusercontent.com/37349558/107150283-13b3e900-692b-11eb-9016-eb52e34740af.png)  
+
+### Step 2
+
+To install Rust
+`curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`  
+
+Next set Rust to nightly by running this command in your Cloud Shell/terminal window.
+`rustup toolchain install nightly`
+
+And set to nightly run this commmand in your Cloud Shell
+`rustup default nightly`
 
