@@ -1,6 +1,6 @@
 # GCP Rust nightly Setup
 ```yaml
-Steps to setup and configure 
+Steps to setup, install and configure 
 GCP Cloud Shell:  
 Cloud Shell Editor:   
 QEMU: 
@@ -17,7 +17,7 @@ There are two issues with dependencies that I found with setting up nightly on W
 
 Setup an account using the free tier of the Google Cloud Platform. https://cloud.google.com/free/  
 
-Once your account is setup, click the 1st icon in the list on the top right of the Google Cloud Platorm page as pictured below to Activate the Cloud Shell. It is a tiny terminal icon.  
+Once your account is setup, click the 1st icon in the list on the top right of the Google Cloud Platorm page as pictured below to **Activate the Cloud Shell**. It is a tiny terminal icon.  
 
 ![Activate Cloud Shell](https://user-images.githubusercontent.com/37349558/107147554-b3b64600-691c-11eb-8fd2-0b576af2da11.png)
 
