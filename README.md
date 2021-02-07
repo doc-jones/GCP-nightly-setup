@@ -63,5 +63,12 @@ rustup toolchain install nightly
 rustup default nightly
 rustup component add rust-src
 rustup component add llvm-tools-preview
-```
+```  
+nano ^O to write the file and ^X to exit the editor. Make the script executable with `chmod -x shellstarter.sh` .  
+Now you can run the file by typing `./shellstarter.sh` at a terminal prompt.  
+  
+## Step 3  
+  
+Cloud Shell comes with a number of languages and utilities already installed and one of those is `git`.  Follow your normal git workflow to Fork and clone https://github.com/doc-jones/simple-os   
+  
 
