@@ -23,7 +23,7 @@ Once your account is setup, click the 1st icon in the list on the top right of t
 
 We will see a familiar terminal window that we can use to start installing Rust and other dependencies.  
 
-![Cloud Shell View](https://user-images.githubusercontent.com/37349558/107150283-13b3e900-692b-11eb-9016-eb52e34740af.png)  
+![Cloud Shell View](https://user-images.githubusercontent.com/37349558/107151882-06026180-6933-11eb-99b2-640628512192.png)  
 
 ## Step 2
 
