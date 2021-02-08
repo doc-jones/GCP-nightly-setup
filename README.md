@@ -95,4 +95,4 @@ The addition of curses allows QEMU to open in a terminal instead of needing to l
 
 ### Special Thanks
   
-Thank you, Tom Tarpey https://github.com/decagondev for all the help with solving the sticky parts.
+Thank you, Tom Tarpey https://github.com/decagondev for help with solving the sticky parts.
