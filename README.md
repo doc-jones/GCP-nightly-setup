@@ -38,7 +38,7 @@ Next set Rust to *nightly* by running this command in your Cloud Shell/terminal 
 And set to *nightly* run this commmand in your Cloud Shell.  
 `rustup default nightly`  
 
-<span style="color: darkorange;">### Install QEMU</span>
+### Install QEMU
   
 Execute this command to install the Debian version of the QEMU elumator.  
 `sudo apt install qemu qemu-system-x86 nasm -y`  
