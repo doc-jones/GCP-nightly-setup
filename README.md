@@ -67,7 +67,23 @@ rustup component add llvm-tools-preview
 nano ^O to write the file and ^X to exit the editor. Make the script executable with `chmod -x shellstarter.sh` .  
 Now you can run the file by typing `./shellstarter.sh` at a terminal prompt.  
 
-Enter `rustc --version` at the terminal prompt to verify that you are running *nightly*. The version should be `rustc 1.52.0-nightly` or greater. 
+The follow are the series of prompts you will see in your terminal window during the execution of this script.  I've added the correct response at the prompt in each of these 8 screenshots.  
+
+![Script Screenshot 1](https://user-images.githubusercontent.com/37349558/107183789-67671680-69ad-11eb-8218-0bd1dc9e616f.png)
+  
+![Script Screenshot 2](https://user-images.githubusercontent.com/37349558/107183831-7bab1380-69ad-11eb-84e1-61b4b493fce4.png)
+  
+![Script Screenshot 3](https://user-images.githubusercontent.com/37349558/107183847-82d22180-69ad-11eb-8271-61acbe0f70d8.png)
+  
+![Script Screenshot 4](https://user-images.githubusercontent.com/37349558/107183868-8b2a5c80-69ad-11eb-85f1-892cc4e4f93a.png)
+  
+![Script Screenshot 5](https://user-images.githubusercontent.com/37349558/107183900-99787880-69ad-11eb-8bcb-a75a657f5184.png)
+  
+![Script Screenshot 6](https://user-images.githubusercontent.com/37349558/107183914-a006f000-69ad-11eb-846b-b7ef25de2ba6.png)
+  
+![Script Screenshot 7](https://user-images.githubusercontent.com/37349558/107183937-aa28ee80-69ad-11eb-85d9-9df018e40f5d.png)
+  
+![Script Screenshot 8](https://user-images.githubusercontent.com/37349558/107183950-b14ffc80-69ad-11eb-8623-fe99f0a29530.png)
   
 ## Step 3  
   
