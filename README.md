@@ -37,6 +37,12 @@ Next set Rust to *nightly* by running this command in your Cloud Shell/terminal 
 
 And set to *nightly* run this commmand in your Cloud Shell.  
 `rustup default nightly`  
+   
+Next add rust-src by running this command in the terminal.
+`rustup component add rust-src`  
+  
+Add llvm compiler tools execute this command at the terminal prompt.
+`rustup component add llvm-tools-preview`  
 
   
 ### Install QEMU
