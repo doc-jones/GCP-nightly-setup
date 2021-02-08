@@ -113,8 +113,9 @@ Open `Cargo.toml` in the editor and make these 2 changes.
 The addition of curses allows QEMU to open in a terminal instead of needing to launch a new window.  Now you can use `cargo test` at the command line. If all is well, then you will see `Hello, World` displayed in the terminal.  
   
 ```yaml
-cd into the simple-os directory then issue the next 2 commands at the terminal prompt.  
+cd into the simple-os directory then issue the next 3 commands at the terminal prompt.  
 (ignore the colons they are a text style workaround)
+cargo install bootimage :
 cargo build          :
 cargo run            :
 ```
