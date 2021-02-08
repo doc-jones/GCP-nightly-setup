@@ -1,4 +1,4 @@
-# Google Cloud Platform Rust nightly Setup
+# Google Cloud Platform Rust *nightly* Version Setup
 ```yaml
 Steps to setup, install and configure  
 GCP Cloud Shell:  
