@@ -38,6 +38,7 @@ Next set Rust to *nightly* by running this command in your Cloud Shell/terminal 
 And set to *nightly* run this commmand in your Cloud Shell.  
 `rustup default nightly`  
 
+  
 ### Install QEMU
   
 Execute this command to install the Debian version of the QEMU elumator.  
@@ -49,6 +50,7 @@ DO NOT Try to cargo run or run QEMU at this point:
 ```  
   
 There are changes that need to be made to your Cargo.toml file before you can can do cargo run. We will need to make 2 changes to Cargo.toml of simple.os for QEMU to open in our Cloud Shell environment.  
+  
   
 ### Use an Executable Script Instead
   
