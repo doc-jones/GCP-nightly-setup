@@ -67,7 +67,7 @@ rustup component add llvm-tools-preview
 nano ^O to write the file and ^X to exit the editor. Make the script executable with `chmod -x shellstarter.sh` .  
 Now you can run the file by typing `./shellstarter.sh` at a terminal prompt.  
 
-The follow are the series of prompts you will see in your terminal window during the execution of this script.  I've added the correct response at the prompt in each of these 8 screenshots.  
+The follow are the series of prompts you will see in your terminal window during the execution of this script.  I've added the correct response at the prompt in each of the screenshots below.  
 
 ![Script Screenshot 1](https://user-images.githubusercontent.com/37349558/107183789-67671680-69ad-11eb-8218-0bd1dc9e616f.png)
   
