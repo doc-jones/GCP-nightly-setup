@@ -105,9 +105,9 @@ Now let's pop the editor out to its own browser window.
   
 Open `Cargo.toml` in the editor and make these 2 changes.  
   
-![Update Version](https://user-images.githubusercontent.com/37349558/107153570-40243100-693c-11eb-8572-1bff54c9dd41.png)
+![Update Version](https://user-images.githubusercontent.com/37349558/107197609-1877ac00-69c2-11eb-9e91-e51219d37a7a.png)
 
-![curses](https://user-images.githubusercontent.com/37349558/107153656-b2951100-693c-11eb-95b9-efdc72aa08c6.png)
+![curses](https://user-images.githubusercontent.com/37349558/107197612-1877ac00-69c2-11eb-81c4-572b69e8c8c2.png)
   
 The addition of curses allows QEMU to open in a terminal instead of needing to launch a new window.  Now you can use `cargo test` at the command line. If all is well, then you will see `Hello, World` displayed in the terminal.  
   
