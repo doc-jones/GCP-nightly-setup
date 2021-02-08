@@ -67,7 +67,7 @@ rustup component add llvm-tools-preview
 nano ^O to write the file and ^X to exit the editor. Make the script executable with `chmod -x shellstarter.sh` .  
 Now you can run the file by typing `./shellstarter.sh` at a terminal prompt.  
 
-Enter `rustc --version` at the terminal prompt to verify that you are running *nightly*. The version should be 1.52 or greater. 
+Enter `rustc --version` at the terminal prompt to verify that you are running *nightly*. The version should be `rustc 1.52.0-nightly` or greater. 
   
 ## Step 3  
   
