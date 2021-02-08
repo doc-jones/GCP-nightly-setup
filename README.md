@@ -1,10 +1,10 @@
 # Google Cloud Platform Rust *nightly* Version Setup
 ```yaml
 Steps to setup, install and configure  
-GCP Cloud Shell:  
-Rust nightly:  
-QEMU:  
-Cloud Shell Editor:  
+GCP Cloud Shell  
+Rust nightly  
+QEMU  
+Cloud Shell Editor  
 ```
   
 My journey with setting up an alternative dev environment for running the *nightly* version of Rust began with the goal of running it on my Win10 machine. I needed to run *nightly* in support of building this project.  https://github.com/doc-jones/simple-os  
@@ -112,9 +112,9 @@ Open `Cargo.toml` in the editor and make these 2 changes.
 The addition of curses allows QEMU to open in a terminal instead of needing to launch a new window.  Now you can use `cargo test` at the command line. If all is well, then you will see `Hello, World` displayed in the terminal.  
   
 ```yaml
-cd into the simple-os directory (ignore the colons they are a text style workaround) issue the next 2 commands
-cargo build               :  
-cargo run                 :  
+cd into the simple-os directory then issue the next 2 commands at the terminal prompt.
+cargo build   
+cargo run   
 ```
   
 ![Qemu Hello World](https://user-images.githubusercontent.com/37349558/107153969-5206d380-693e-11eb-960a-90c2ad32ebff.png)
