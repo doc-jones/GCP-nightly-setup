@@ -54,7 +54,7 @@ There are changes that need to be made to your `Cargo.toml` file before you can 
   
 ### Use an Executable Script Instead
   
-In the root directory of your Cloud Shell, open a new file with any name you like. It must have the `.sh` extention.  My example as follows.  
+In the $HOME directory of your Cloud Shell, open a new file with any name you like. It must have the `.sh` extention.  My example as follows.  
 `nano shellstarter.sh`  
   
 This will open an empty file in the nano editor.  Copy/Paste the following code into your nano editor.  
