@@ -7,9 +7,9 @@ QEMU:
 Cloud Shell Editor:  
 ```
   
-My journey with setting up an alternative dev environment for running Rust nightly began with the goal of running it on my Win10 machine. I needed to run nightly in support of building this project.  https://github.com/doc-jones/simple-os  
+My journey with setting up an alternative dev environment for running the *nightly* version of Rust began with the goal of running it on my Win10 machine. I needed to run **nightly** in support of building this project.  https://github.com/doc-jones/simple-os  
   
-There are two issues with dependencies that I found with setting up nightly on Win10. First, it requires Microsoft Visual Studio C++ Tools which comes with GBs of data and sencond the Win10 scripts require use of the nightly-x86_64-pc-windows-msvc toolchain.  There is a known and well reported issue with using the msvc toolchain the the recommended fix is the use gcc instead with this command:  rustup install toolchain nightly-x86_64-pc-windows-gnc.  
+There are two issues with dependencies that I found with setting up *nightly* on Win10. First, it requires Microsoft Visual Studio C++ Tools which comes with GBs of data and sencond the Win10 scripts require use of the nightly-x86_64-pc-windows-msvc toolchain.  There is a known and well reported issue with using the msvc toolchain the the recommended fix is the use gcc instead with this command:  rustup install toolchain nightly-x86_64-pc-windows-gnc.  
 
 # Usage  
 
@@ -32,10 +32,10 @@ We will see a familiar terminal window that we can use to start installing Rust 
 Use rustup to install Rust  
 `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`  
 
-Next set Rust to nightly by running this command in your Cloud Shell/terminal window.  
+Next set Rust to *nightly* by running this command in your Cloud Shell/terminal window.  
 `rustup toolchain install nightly`
 
-And set to nightly run this commmand in your Cloud Shell.  
+And set to *nightly* run this commmand in your Cloud Shell.  
 `rustup default nightly`  
 
 ### Install QEMU
@@ -66,6 +66,8 @@ rustup component add llvm-tools-preview
 ```  
 nano ^O to write the file and ^X to exit the editor. Make the script executable with `chmod -x shellstarter.sh` .  
 Now you can run the file by typing `./shellstarter.sh` at a terminal prompt.  
+
+Enter `rustc --version` at the terminal prompt to verify that you are running *nightly*. The version should be 1.52 or greater. 
   
 ## Step 3  
   
