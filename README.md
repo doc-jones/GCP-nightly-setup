@@ -49,7 +49,7 @@ Installing QEMU in our Cloud Shell differs from the process for MacOS or Windows
 DO NOT Try to cargo run or run QEMU at this point:
 ```  
   
-There are changes that need to be made to your Cargo.toml file before you can can do cargo run. We will need to make 2 changes to Cargo.toml of simple.os for QEMU to open in our Cloud Shell environment.  
+There are changes that need to be made to your `Cargo.toml` file before you can can do cargo run. We will need to make 2 changes to Cargo.toml of simple.os for QEMU to open in our Cloud Shell environment.  
   
   
 ### Use an Executable Script Instead
@@ -103,7 +103,7 @@ Now let's pop the editor out to its own browser window.
   
 ## Step 4
   
-Open Cargo.toml in the editor and make these 2 changes.  
+Open `Cargo.toml` in the editor and make these 2 changes.  
   
 ![Update Version](https://user-images.githubusercontent.com/37349558/107153570-40243100-693c-11eb-8572-1bff54c9dd41.png)
 
