@@ -31,7 +31,9 @@ We will see a familiar terminal window that we can use to start installing Rust 
   
 Use rustup to install Rust  
 `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`  
-You may need to restart your ternimal after installing Rust to ensure it's added to the $PATH.
+  
+Update environment variable without the need to launch a new terminal window.   
+`source $HOME/.cargo/env`
 
 Next set Rust to *nightly* by running this command in your Cloud Shell/terminal window.  
 `rustup toolchain install nightly`
