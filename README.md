@@ -93,7 +93,7 @@ The follow are the series of prompts you will see in your terminal window during
   
 ![Script Screenshot 3](https://user-images.githubusercontent.com/37349558/107191481-3c36f400-69ba-11eb-8375-d5c34805db01.png)  
   
-![chosenightly](https://user-images.githubusercontent.com/37349558/110542881-9af5a780-80f7-11eb-93a3-c552d0c59213.png)
+![chosenightly (1)](https://user-images.githubusercontent.com/37349558/110543388-4272da00-80f8-11eb-9c31-8e268bdef50e.png)
   
 ![Script Screenshot 4](https://user-images.githubusercontent.com/37349558/107191479-3c36f400-69ba-11eb-8041-148ab8a3516c.png)
   
