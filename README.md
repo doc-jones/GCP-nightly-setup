@@ -91,7 +91,9 @@ The follow are the series of prompts you will see in your terminal window during
   
 ![Script Screenshot 2](https://user-images.githubusercontent.com/37349558/107191482-3c36f400-69ba-11eb-892e-d8299b708bf7.png)
   
-![Script Screenshot 3](https://user-images.githubusercontent.com/37349558/107191481-3c36f400-69ba-11eb-8375-d5c34805db01.png)
+![Script Screenshot 3](https://user-images.githubusercontent.com/37349558/107191481-3c36f400-69ba-11eb-8375-d5c34805db01.png)  
+  
+![chosenightly](https://user-images.githubusercontent.com/37349558/110542881-9af5a780-80f7-11eb-93a3-c552d0c59213.png)
   
 ![Script Screenshot 4](https://user-images.githubusercontent.com/37349558/107191479-3c36f400-69ba-11eb-8041-148ab8a3516c.png)
   
