@@ -84,18 +84,13 @@ Next at the terminal prompt make the script executable with `chmod +x shellstart
 Now you can run the file by typing `./shellstarter.sh` at a terminal prompt.  
 
 The follow are the series of prompts you will see in your terminal window during the execution of this script.  I've added the correct response at the prompt in each of the screenshots below.  
-  
-<p align="center">
-![shellstartsh](https://user-images.githubusercontent.com/37349558/110538358-f755c880-80f1-11eb-92c4-55678487f93c.png)
-</p>
+    
   
 ![Script Screenshot 1](https://user-images.githubusercontent.com/37349558/107191485-3ccf8a80-69ba-11eb-9cab-3d982f48c8c7.png)
   
 ![Script Screenshot 2](https://user-images.githubusercontent.com/37349558/107191482-3c36f400-69ba-11eb-892e-d8299b708bf7.png)
   
 ![Script Screenshot 3](https://user-images.githubusercontent.com/37349558/107191481-3c36f400-69ba-11eb-8375-d5c34805db01.png)  
-  
-![chosenightly (1)](https://user-images.githubusercontent.com/37349558/110543388-4272da00-80f8-11eb-9c31-8e268bdef50e.png)
   
 ![Script Screenshot 4](https://user-images.githubusercontent.com/37349558/107191479-3c36f400-69ba-11eb-8041-148ab8a3516c.png)
   
