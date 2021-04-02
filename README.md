@@ -111,10 +111,8 @@ Current installation options:
 2) Customize installation
 3) Cancel installation
 >2
-```
 
 
-```shell=
 I'm going to ask you the value of each of these installation options.
 You may simply press the ENTER key to leave unchanged.
 
