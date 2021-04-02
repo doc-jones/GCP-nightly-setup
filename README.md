@@ -88,7 +88,7 @@ The follow are the series of prompts you will see in your terminal window during
   
 ```shell
 $ ./shellstart.sh_
-
+>
 ```
 
 ```shell
@@ -112,14 +112,12 @@ Current installation options:
 3) Cancel installation
 >2
 
-
 I'm going to ask you the value of each of these installation options.
 You may simply press the ENTER key to leave unchanged.
 
 Default host triple?
 _
 ```
-
 
 ```shell
 I'm going to ask you the value of each of these installation options.
@@ -164,7 +162,6 @@ y_
 3) Cancel installation
 1_
 ```
-
 
 ```shell
 $ rustc --version
