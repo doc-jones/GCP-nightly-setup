@@ -86,21 +86,92 @@ Now you can run the file by typing `./shellstarter.sh` at a terminal prompt.
 The follow are the series of prompts you will see in your terminal window during the execution of this script.  I've added the correct response at the prompt in each of the screenshots below.  
     
   
-![Script Screenshot 1](https://user-images.githubusercontent.com/37349558/107191485-3ccf8a80-69ba-11eb-9cab-3d982f48c8c7.png)
-  
-![Script Screenshot 2](https://user-images.githubusercontent.com/37349558/107191482-3c36f400-69ba-11eb-892e-d8299b708bf7.png)
-  
-![Script Screenshot 3](https://user-images.githubusercontent.com/37349558/107191481-3c36f400-69ba-11eb-8375-d5c34805db01.png)  
-  
-![Script Screenshot 4](https://user-images.githubusercontent.com/37349558/107191479-3c36f400-69ba-11eb-8041-148ab8a3516c.png)
-  
-![Script Screenshot 5](https://user-images.githubusercontent.com/37349558/107191478-3c36f400-69ba-11eb-820d-6e5e79e06798.png)
-  
-![Script Screenshot 6](https://user-images.githubusercontent.com/37349558/107191488-3ccf8a80-69ba-11eb-85f5-d9030161a133.png)
-  
-![Script Screenshot 7](https://user-images.githubusercontent.com/37349558/107191487-3ccf8a80-69ba-11eb-9e96-dc4f986d0e66.png)
-  
-![Script Screenshot 8](https://user-images.githubusercontent.com/37349558/107191486-3ccf8a80-69ba-11eb-9282-7e90479788ee.png)
+```shell=
+$ ./shellstart.sh_
+
+```
+
+```shell=
+Current installation options:
+
+
+     default host triple: x86_64-unknown-linux-gnu
+       default toolchain: stable(default)
+                 profile: default
+    modify PATH variable: yes
+    
+1) Proceed with installation (default)
+2) Customize installation
+3) Cancel installation
+>2_
+```
+
+```shell=
+1) Proceed with installation (default)
+2) Customize installation
+3) Cancel installation
+>2
+```
+
+
+```shell=
+I'm going to ask you the value of each of these installation options.
+You may simply press the ENTER key to leave unchanged.
+
+Default host triple?
+_
+```
+
+
+```shell
+I'm going to ask you the value of each of these installation options.
+You may simply press the ENTER key to leave unchanged.
+
+Default host triple?
+
+
+Default toolchain? (stable/beta/nightly/none)
+nightly_
+```
+
+```shell
+Default host triple?
+
+Default toolchain? (stable/beta/nightly/none)
+nightly
+
+Profile (which tools and data to install)? (minimal/default/complete)
+default_
+```
+
+```shell
+Default toolchain? (stable/beta/nightly/none)
+nightly
+
+Profile (which tools and data to install)? (minimal/default/complete)
+default
+
+Modify PATH variable? (y/n)
+y_
+```
+
+```shell
+     default host triple: x86_64-unknown-linux-gnu
+       default toolchain: stable(default)
+                 profile: default
+    modify PATH variable: yes
+    
+1) Proceed with installation (default)
+2) Customize installation
+3) Cancel installation
+1_
+```
+
+
+```shell
+$ rustc --version
+rustc 01.52.0-nightly (9778068cb 2021-02-07) 
+```
   
 ## Step 3  
   
