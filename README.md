@@ -112,7 +112,7 @@ Current installation options:
 3) Cancel installation
 >2
 
-I'm going to ask you the value of each of these installation options.
+I am going to ask you the value of each of these installation options.
 You may simply press the ENTER key to leave unchanged.
 
 Default host triple?
