@@ -83,7 +83,7 @@ In nano `Ctrl + o` to write the file and `Ctrl + x` to exit the editor.
 Next at the terminal prompt make the script executable with `chmod +x shellstarter.sh` .  
 Now you can run the file by typing `./shellstarter.sh` at a terminal prompt.  
 
-The follow are the series of prompts you will see in your terminal window during the execution of this script.  I've added the correct response at the prompt in each of the screenshots below.  
+The follow are the series of prompts you will see in your terminal window during the execution of this script.  I've added the correct response for each configuration choice presented at the terminal prompt in the examples below.  
     
   
 ```shell
