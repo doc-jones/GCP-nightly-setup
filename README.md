@@ -204,4 +204,4 @@ cargo run            :
 
 ### Special Thanks
   
-Thank you, Tom Tarpey https://github.com/decagondev for help with solving the sticky parts.
+Thank you, [Tom Tarpey](https://github.com/decagondev) for help with solving the sticky parts.
